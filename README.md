@@ -8,7 +8,7 @@ Utilized CDN libraries from leaflet and socket.io.
 1. Clone this repo and cd into it
 
 ```bash
-git clone https://github.com/himanshu-Bhatt/Gofocus.git && cd Gofocus
+git https://github.com/himanshu-Bhatt/Location-tracker.git && cd Location-tracker
 ```
 
 2. Install dependencies
